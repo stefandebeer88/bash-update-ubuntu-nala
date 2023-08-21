@@ -1,4 +1,4 @@
-# Update Ubuntu by using a Bash script & Nala.
+# Update & Upgrade Ubuntu using a Bash script with Nala.
 <h2>Version: 0.1</h2>
 <p>Be sure that you give permissions to the .sh script before running.</p>
 <p>You also have to have sudo access to run this bash script.</p>
